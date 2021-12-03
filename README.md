@@ -29,16 +29,16 @@ Unlike PayPalRetailers who use partner with Klarna has seen an increase of new c
 # Landscape:
 Klarna is part of the Payment sector in the FinTech industry. The payment industry is rapidly changing scene due to the introduction of new payment methods, mergers and acquisitions and new technology. Unlike in the past, when payment processing world was simply about facilitating the transfer of funds, the newest players in the payment processing world are completely redefining the customer experience and enabling business owners to manage their businesses with incredible ease. Klarna is one of the companies using advanced technology to authenticate electronic payments. 
 Here are trends and innovations in the payment sector of fintech are:
-•	The Rise of Cross Border eCommerce –
-•	The Rise of “Digital-Only” Banking, and How it Will Affect your Business
-•	Blockchain Technology in Redefining How Your Business Will Operate
-•	Artificial Intelligence and Adaptive Machine-Learning-Where the Industry Stands
-•	The Coming Trend of Platform as a Service (PaaS)
-•	From Competitor to Collaborators
-•	Mobile Payment Options Go Mainstream
-•	Payroll Fintech is Becoming a Major New Player
-•	Buy-Now-Pay Later Goes Mainstream
-•	Conventional Institutions and Fintech Blend Services
+-	The Rise of Cross Border eCommerce –
+-	The Rise of “Digital-Only” Banking, and How it Will Affect your Business
+-	Blockchain Technology in Redefining How Your Business Will Operate
+-	Artificial Intelligence and Adaptive Machine-Learning-Where the Industry Stands
+-	The Coming Trend of Platform as a Service (PaaS)
+-	From Competitor to Collaborators
+-	Mobile Payment Options Go Mainstream
+-	Payroll Fintech is Becoming a Major New Player
+-	Buy-Now-Pay Later Goes Mainstream
+-	Conventional Institutions and Fintech Blend Services
 There are a lot of companies in the payment fintech; however, here are a few of the most influential companies: BlockFi, Carta, Gemini, Chime, Current, Wise, Klarna, Kraken, Stripe and Robinhood.
 
 # Results:
